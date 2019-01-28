@@ -1,4 +1,4 @@
-# Plataforma de ventas en línea
+# Plataforma de ventas en línea: Dulce creación 
 
 ## Preámbulo
 
@@ -22,7 +22,7 @@ todos puedan beneficiarse en el camino.
 Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
 asociación que agrupa a pequeñas y medianas empresas que comercializan productos y servicios, y nos piden
 que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-clientes compren sus productos sin intermediarios. Los miembros con los que trabajarás son: 
+clientes compren sus productos sin intermediarios. Los miembros con los que trabajarás son:
 
 - [Dulcecreación](https://www.facebook.com/dulcecreaci%C3%B3n-2077087549044496/)
 - [Central Fly](https://www.facebook.com/CENTRALFLY/)
@@ -216,7 +216,7 @@ README.md  explicando el proceso del proyecto:
 * Definición de la solución/producto
 * Link a prototipo navegable
 * Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
+  del proyecto.
 * Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
   necesidades del usuario final.
 * Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
@@ -277,7 +277,7 @@ mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 
 - En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
   su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
+propia web desde 0.
 
 - Desarrolla **todo el flujo de tu propuesta**
 utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
