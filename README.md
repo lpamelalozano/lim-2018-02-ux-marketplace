@@ -178,29 +178,23 @@ en el caso anterior, para crear y validar la solución puedes realizar muchas
 actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
 los recursos que tienes.
 
-## Implementación
+## Objetivos y presupuesto:
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el ok para que puedas empezar.
+### Objetivo del proyecto:
+* Idear una solución e-commerce para Dulce Creación, basada en su modelo de negocio y un diseño centrado en la experiencia de sus usuarios.
 
-|Actividad|Descripción|Puntos|
+Para realizar este proyecto tuvimos que utilizar una serie de actividades que implementamos en nuestro proceso de UX, las cuales fueron ajustadas en un presupuesto de 300 puntos:
+
+|Actividad|Justificación|Puntos|
 |:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+|Entendimiento del problema, la industria y el contexto| Permite recolectar información acerca del entorno del negocio, su sostenibilidad en el tiempo, entender el problema. | 15 |
+|Entrevistas con cliente|Permite conocer los objetivos del negocio y necesidades del cliente. |25|
+|Benchmark| Permite realizar un análisis de la competencia y sus soluciones propuestas ante un problema. | 20 |
+|Entrevistas con usuarios| Para descubrir y entender sus necesidades | 60 |
+|Testeos de prototipos| Permite  detectar problemas en el flujo para así luego realizar cambios y/o mejoras. | 60 |
+|Sketching y wireframing| Fundamental para recibir feedback y así hacer mejoras y modificaciones que no demanden tanto tiempo. | 30 |
+|Prototipado de alta fidelidad| Permite representar una propuesta de solución en base al diseño centrado en la experiencia del usuario,  requerimientos del cliente y objetivos del negocio.| 80 |
+| | |290|
 
 ## Entrega
 
