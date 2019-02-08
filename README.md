@@ -1,5 +1,71 @@
-# Plataforma de ventas en línea: Dulce creación 
+# Plataforma de ventas en línea: Dulce creación
 
+## Índice
+* [Objetivos del proyecto](#Objetivos-del-proyecto)
+* [Entendimiento del problema, la industria y el contexto](#Entendimiento-del-problema)
+* [Problemas identificados en la investigación (del cliente y del usuario)](#Problemas-identificados-en la-investigación)
+* [Definición del público objetivo](#Definición-del-público-objetivo)
+* [Definición de la solución/producto](#Definición-de-la-solución/producto)
+* [Link a prototipo navegable](#Link-a-prototipo-navegable)
+* [Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto](#Explicación-de-cómo-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto)
+* [Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final](#Explicación-de-cómo-los-contenidos-y-funcionalidades-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
+* [Link de Zeplin](#Link-de-Zeplin)
+* [Video Loom explicativo](#Video-Loom-explicativo)
+
+
+## Objetivos del proyecto
+Idear una solución e-commerce para Dulce Creación, basada en su modelo de negocio y un diseño centrado en la experiencia de sus usuarios.
+
+## Entendimiento del problema, la industria y el contexto
+Dueña de dulce creación Jen Mendoza con experiencia en temas de calidad y temas sociales se mudó a Cuzco hace 2 años y medio y comenzó en diciembre del 2018 un emprendimiento de tortas donde coordina el pedido y entrega por whatsapp por el momento trabaja sola pero  su objetivo con este emprendimiento no es solo mejorar su situación personal y familiar sino que tiene la meta que al aumentar sus ventas y tenga la necesidad de contratar más mano de obra este llegue  a ser un emprendimiento que de trabajo y capacitación a mujeres en situación vulnerable como las víctimas de violencia familiar en la localidad de San Jerónimo en Cuzco.
+
+
+## Problemas identificados en la investigación (del cliente y del usuario)
+
+#### Cliente
+[Entrevista a dueña Dulcecreación]("aqui va link de entrevista")
+
+- No tiene una página web actualmente según indica por el costo que implica tener un dominio y el costo de contratar un programador.
+- Consigue clientes a través de invitaciones por Facebook, por el boca a boca,volantes.
+- Es la que realiza todas las actividades en su emprendimiento.
+- Se pone en contacto con clientes por teléfono,Facebook,correo pero su principal vía de ventas y comunicación actualmente es whatsapp.
+-Actualmente no tiene local la preparación la realiza en su casa.
+-Las características que coordina con sus clientes (tipo de torta,que decoración,si quieren relleno,cuantas porciones tiene la torta) y la entrega del 50% de adelanto las realiza físicamente.
+-Deben hacerle el pedido con 3 días de anticipación.
+-Si ella lleva el producto a la casa del cliente cobra como delivery el precio del taxi que en ese momento la llevo.
+
+#### Usuarios
+[Encuestas online ](https://docs.google.com/forms/d/1OCtwRTskTwUCD3cPlqPDEpWxnjSHXAoVTI4L0dpBrPY/edit#responses)
+
+[Entrevista a usuarios ]("aqui va link de entrevistas")
+
+-Unos de los problemas  sería que el producto que les entregan no sea lo que pidieron y que no  corresponda con las fotos que publican en facebook.
+- Otro punto que más que más les  importa de un servicio es la puntualidad y que cumplan los plazos.
+- Necesitan un canal de comunicación  fluida con respecto al estado de su pedido o cualquier otra duda que tengan.
+- Compran por recomendación y siguen comprando solo si la experiencia que tuvieron fue buena y como esperaban.
+- Compran por en internet si la experiencia es "cómoda".
+- Les motiva a comprar en la misma tienda siempre que haya promociones.
+- Los costos de envíos es algo que les desanima a pedir online con delivery.
+
+## Definición del público objetivo
+
+#### User persona
+
+#### Customer Journey Map (indicando pain y gain points)
+
+## Definición de la solución/producto
+
+## Link a prototipo navegable
+## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
+## Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+## Link de Zeplin
+## Video Loom explicativo
+
+
+
+
+
+//texto de github
 ## Preámbulo
 
 En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
@@ -311,3 +377,5 @@ que deberías alcanzar al finalizar este proyecto:
 |Trabajo en equipo| 4 |
 |Comunicación eficaz| 4 |
 |Presentaciones| 4 |
+
+//
