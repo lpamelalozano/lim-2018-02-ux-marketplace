@@ -3,7 +3,7 @@
 ## Índice
 * [Objetivos del proyecto](#Objetivos-del-proyecto)
 * [Entendimiento del problema, la industria y el contexto](#Entendimiento-del-problema)
-* [Problemas identificados en la investigación (del cliente y del usuario)](#Problemas-identificados-en la-investigación)
+* [Problemas identificados en la investigación del cliente y del usuario](#Problemas-identificados-en-la-investigación-del-cliente-y-del-usuario)
 * [Definición del público objetivo](#Definición-del-público-objetivo)
 * [Definición de la solución/producto](#Definición-de-la-solución/producto)
 * [Link a prototipo navegable](#Link-a-prototipo-navegable)
@@ -20,7 +20,7 @@ Idear una solución e-commerce para Dulce Creación, basada en su modelo de nego
 Dueña de dulce creación Jen Mendoza con experiencia en temas de calidad y temas sociales se mudó a Cuzco hace 2 años y medio y comenzó en diciembre del 2018 un emprendimiento de tortas donde coordina el pedido y entrega por whatsapp por el momento trabaja sola pero  su objetivo con este emprendimiento no es solo mejorar su situación personal y familiar sino que tiene la meta que al aumentar sus ventas y tenga la necesidad de contratar más mano de obra este llegue  a ser un emprendimiento que de trabajo y capacitación a mujeres en situación vulnerable como las víctimas de violencia familiar en la localidad de San Jerónimo en Cuzco.
 
 
-## Problemas identificados en la investigación (del cliente y del usuario)
+## Problemas identificados en la investigación del cliente y del usuario
 
 #### Cliente
 [Entrevista a dueña Dulcecreación]("aqui va link de entrevista")
