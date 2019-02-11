@@ -1,11 +1,11 @@
 # **Plataforma de ventas en línea: Dulce creación**
 
 ## Índice
- 
+
 * [Objetivos del proyecto](#Objetivos-del-proyecto)
 * [Entendimiento del problema, la industria y el contexto](#Entendimiento-del-problema)
 * [Problemas identificados en la investigación del cliente y del usuario](#Problemas-identificados-en-la-investigación-del-cliente-y-del-usuario)
-* [Definición del público objetivo y síntesis de información](#Definición-del-público-objetivo-y-síntesis-de- información)
+* [Definición del público objetivo y síntesis de información](#Definición-del-público-objetivo-y-síntesis-de-información)
 * [Definición de la solución/producto](#Definición-de-la-solución/producto)
 * [Link a prototipo navegable](#Link-a-prototipo-navegable)
 * [Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto y resuelven cada uno de las necesidades del usuario final](#Explicación-de-cómo-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto-y-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
