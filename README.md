@@ -1,11 +1,11 @@
 # **Plataforma de ventas en línea: Dulce creación**
 
 ## Índice
-
+ 
 * [Objetivos del proyecto](#Objetivos-del-proyecto)
 * [Entendimiento del problema, la industria y el contexto](#Entendimiento-del-problema)
 * [Problemas identificados en la investigación del cliente y del usuario](#Problemas-identificados-en-la-investigación-del-cliente-y-del-usuario)
-* [Definición del público objetivo](#Definición-del-público-objetivo)
+* [Definición del público objetivo y síntesis de información](#Definición-del-público-objetivo-y-síntesis-de- información)
 * [Definición de la solución/producto](#Definición-de-la-solución/producto)
 * [Link a prototipo navegable](#Link-a-prototipo-navegable)
 * [Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto y resuelven cada uno de las necesidades del usuario final](#Explicación-de-cómo-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto-y-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
@@ -18,8 +18,16 @@
 ## Objetivos del proyecto
 Idear una solución e-commerce para Dulce Creación, basada en su modelo de negocio y un diseño centrado en la experiencia de sus usuarios.
 
+#### *Herramientas usadas*
+
+Para realizar este proyecto tuvimos que utilizar una serie de actividades que implementamos en nuestro proceso de UX, las cuales fueron ajustadas en un presupuesto de 290 puntos:
+
+![presupuesto](images/presupuesto.PNG)
+
+
 ## Entendimiento del problema, la industria y el contexto
-Dueña de dulce creación es un emprendimiento de elaboración de tortas y cupcakes situado en Cuzco, su propietaria Jen Mendoza con experiencia en temas de calidad y temas sociales se mudó a Cuzco hace 2 años y medio y comenzó en diciembre del 2018 este emprendimiento donde coordina el pedido y entrega por whatsapp, actualmente es la que se encarga de todo las actividades relacionadas con el negocio, trabaja sola pero  su visión  con este emprendimiento no es solo mejorar su situación personal y familiar sino que tiene la meta a largo plazo que al aumentar sus ventas y tenga la necesidad de contratar más mano de obra y este llegue  a ser un emprendimiento social que de trabajo y capacitación a mujeres en situación vulnerable como las víctimas de violencia familiar en la localidad de San Jerónimo en Cuzco.
+
+Dueña de dulce creación es un emprendimiento con poco tiempo de creado se dedica a la elaboración de tortas y cupcakes situado en  Cuzco, su propietaria Jen Mendoza con experiencia en temas de calidad y temas sociales se mudó a Cuzco hace 2 años y medio y comenzó en diciembre del 2018 este emprendimiento donde coordina el pedido y entrega de sus productos por whatsApp, actualmente es la que se encarga de todo las actividades relacionadas con el negocio, trabaja sola pero  su visión con este emprendimiento no es solo mejorar su situación personal y familiar sino que tiene la meta a largo plazo que al aumentar sus ventas y tenga la necesidad de contratar más mano de obra pueda dar trabajo y capacitación a mujeres en situación económica desfavorable o mujeres víctimas de violencia familiar en la la localidad de San Jerónimo Cuzco y este llegue  a ser un emprendimiento social.
 
 
 ## Problemas identificados en la investigación del cliente y del usuario
@@ -56,7 +64,7 @@ Puntos fuertes de Jen:
 
 - Buena Calidad de sus productos.
 
--Las imágenes que cuelga son de sus productos.
+- Las imágenes que cuelga son de sus productos.
 
 - Siempre trata de centrarse en la calidad de la atención.
 
@@ -104,8 +112,35 @@ Encontramos lo siguiente:
 
 - Si la primera compra es buena tanto por el producto, por plazos y por facilidad de uso de la página continúan comprando en la misma y se fidelizan con la empresa es decir solo siguen comprando si la experiencia que tuvieron fue buena y como esperaban.
 
+#### *Benchmark*
 
-## Definición del público objetivo
+Para que nos sirvió:
+
+El benchmarck nos sirvió para definir qué cosas eran importantes incluir en nuestro portal web hicimos un comparativo con empresas del mismo rubro y otras referencias que eran un buen ejemplo de éxito por su servicio como Wong y Glovo.
+
+- Confirmamos la importancia de dar beneficios al cliente habitual con ofertas/cupones sobre todo en las empresas que tomamos como referencia de éxito en servicio como Wong y Glovo según comentarios de usuarios.
+
+- Todos nuestros referentes mejoran tienen una información detallada del producto.
+
+- La mayoría tiene la opción de recojo en tienda o delivery.
+- Casi todos dan varias opciones de pago para escoger al cliente tarjeta de débito/crédito, depósito o efectivo.
+
+- La mayoría con página web e-commerce.
+
+- Y como referencia de servicio vimos que Wong pone su visión/misión que les da un valor agregado.
+
+![benchMark](images/benchMark.PNG)
+
+
+## Definición del público objetivo y síntesis de información
+
+#### *Afinnity Map*
+
+Realizamos nuestro mapa de afinidad para  encontrar los temas más  recurrentes e importantes para  nuestros usuarios.
+
+Utilizamos la herarmienta online RealtimeBoard el link se encuentra abajo.
+
+[Afinity Map ](https://realtimeboard.com/welcomeonboard/ccjG8e29d0V20xnK449iq2DmP27deLC1YleTjtXCHWl1e4zJPWiJ2wtehD6iVNFk)
 
 #### *User persona*
 Ahora que ya sabemos lo que nuestro usuario desea en una compra en el portal web hicimos nuestro user persona.
@@ -121,9 +156,39 @@ Nos sirvió para identificar que uno de los principales puntos en enfocarnos era
 
 ![customerJourneyMap](images/customerJourneyMap.PNG)
 
+### *Problem statements*
+
+- Cliente necesita ver información detallada del producto para facilitar su decisión de compra.
+
+- Cliente necesita seleccionar la forma de entrega del producto para elegir la que mejor le convenga.
+
+- Cliente necesita disponer de una variedad de formas de pago online para elegir la que sea más accesible para él y/o le genere seguridad.
+
+- cliente necesita incentivos para fidelizarse con la empresa.
+
+### *How Might We-HMW*
+
+- ¿HMW que nuestros usuarios tengan toda la información antes de adquirir un producto?
+
+- ¿HMW para que nuestros usuarios escojan la forma de entrega que más se acomode a sus necesidades?
+
+- ¿HMW para generar en nuestros usuarios una sensación de seguridad al realizar un pago online?
+
+### *What if*
+
+- ¿What if integramos el messenger de Facebook a la tienda online?
+
+- ¿What if se le brinda a los usuarios la opción de pagar por depósito o transferencia en distintos bancos?
+
+- ¿What if los usuarios reciben cupones de descuento por comprar online?
+
+- ¿What if los usuarios no tuvieran que pagar delivery?
+
+- ¿What if se les envía un catálogo online mensual al correo a los usuarios frecuentes con los detalles de los productos en stock actualizada?
+
 ## Definición de la solución/producto
 
-En el diseño del  portal resalta los puntos fuertes del cliente Dulce creación y asimismo el diseño del portal e-commerce incluye las principales características que valoran y necesitan los usuarios.
+Luego de haber realizado la síntesis de la información en el diseño del  portal resaltamos los puntos fuertes del cliente Dulce creación y asimismo el diseño del portal e-commerce incluye las principales características que valoran y necesitan los usuarios.
 
 •	**¿Quiénes son los principales usuarios de producto?**
 
@@ -157,12 +222,14 @@ Ingresar a la página,dar click en producto de interés,llenar especificaciones 
 Este portal e-commerce aumentará la eficiencia en contacto de clientes, solicitud y entrega de pedidos ya que actualmente se realiza solamente por Facebook y whatsapp además incremente su exposición a diferentes públicos como pobladores de cuzco, turistas, personas jurídicas porque actualmente dueña de dulce creación solo se publicita con sus amigos de Facebook o volantes y principalmente porque mejora la experiencia de compra del usuario al incluir características en la página que él desea o espera por sus anteriores experiencias positivas en compras online y que hemos recogido en la investigación.
 
 
-
 ## Link a prototipo navegable
+
+[Prototipo ]("aqui va link de prototipo")
 
 ## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto y resuelven cada uno de las necesidades del usuario final.
 
 El diseño del portal e-commerce creado esta realizado en base a la información que recogimos y analizamos en nuestra investigación por lo que está centrado en el usuario y el los objetivos del cliente.
+
 
 *Implementación de la solución*
 
@@ -191,11 +258,9 @@ El diseño del portal e-commerce creado esta realizado en base a la información
 Esperamos que de implementarse el diseño resulte en un aumento de ventas ya que se espera que con este portal aumente la eficiencia en contacto de clientes, solicitud y entrega de pedidos e incremente su exposición a diferentes públicos como pobladores de cuzco, turistas, personas jurídicas.
 
 
-
-
-
-
 ## Link de Zeplin
+
+[Zeplin ]("aqui va link de Zeplin")
 
 ## Video Loom explicativo
 
@@ -203,7 +268,7 @@ Esperamos que de implementarse el diseño resulte en un aumento de ventas ya que
 
 
 
-//texto de github
+//texto original de github
 ## Preámbulo
 
 En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
