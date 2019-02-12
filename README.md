@@ -137,7 +137,7 @@ El benchmarck nos sirvió para definir qué cosas eran importantes incluir en nu
 
 - Y como referencia de servicio vimos que Wong pone su visión/misión que les da un valor agregado.
 
-![benchMark](images/benchMark.PNG)
+![benchMark](images/benchmark.png)
 
 
 ## Definición del público objetivo y síntesis de información
@@ -150,19 +150,21 @@ Utilizamos la herarmienta online RealtimeBoard el link se encuentra abajo.
 
 [Afinity Map ](https://realtimeboard.com/welcomeonboard/ccjG8e29d0V20xnK449iq2DmP27deLC1YleTjtXCHWl1e4zJPWiJ2wtehD6iVNFk)
 
+![Afinity Map](images/affinity_map.jpg)
+
 #### *User persona*
 Ahora que ya sabemos lo que nuestro usuario desea en una compra en el portal web hicimos nuestro user persona.
 
 La representación de nuestro usuario basado en nuestra investigación es el siguiente:
 
-![userPersona](images/userPersona.PNG)
+![userPersona](images/user_persona.png)
 
 
 #### *Customer Journey Map (indicando pain y gain points)*
 
 Nos sirvió para identificar que uno de los principales puntos en enfocarnos era las especificaciones de producto, cotización e información que se solicita.
 
-![customerJourneyMap](images/customerJourneyMap.PNG)
+![customerJourneyMap](images/customer_journey_map.png)
 
 ### *Problem statements*
 
@@ -292,57 +294,6 @@ más por un producto y el productor o fabricante, que se ve presionado a vender
 más barato para que su producto llegue al consumidor a un precio asequible y que
 todos puedan beneficiarse en el camino.
 
-## Introducción
-
-### “Nuevo portal de e-commerce”
-
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas que comercializan productos y servicios, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-clientes compren sus productos sin intermediarios. Los miembros con los que trabajarás son:
-
-- [Dulcecreación](https://www.facebook.com/dulcecreaci%C3%B3n-2077087549044496/)
-- [Central Fly](https://www.facebook.com/CENTRALFLY/)
-- [Euro Piggy](https://www.facebook.com/EuroPiggy/)
-- [Isanka Peruvian Bags](https://www.facebook.com/IsankaPeruvianBags/)
-- [Pausa](https://www.facebook.com/pausa.travel/)
-- [Centro de Investigación y Desarrollo de Farmacoepidemiología (CID FARMA)](https://www.facebook.com/CIDFARMA/)
-
-Luego de conocer con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los clientes que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
-
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
-
-## Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
 
 ## Tópicos a cubrir
 
