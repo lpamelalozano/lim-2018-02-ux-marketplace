@@ -14,15 +14,23 @@
 
 ***
 
+## Objetivos del proyecto:
+* Idear una solución e-commerce para Dulce Creación, basada en su modelo de negocio y un diseño centrado en la experiencia de sus usuarios.
 
-## Objetivos del proyecto
-Idear una solución e-commerce para Dulce Creación, basada en su modelo de negocio y un diseño centrado en la experiencia de sus usuarios.
+## Herramientas y presupuesto:
+Para realizar este proyecto tuvimos que utilizar una serie de actividades que implementamos en nuestro proceso de UX, las cuales fueron ajustadas en un presupuesto de 300 puntos:
 
-#### *Herramientas usadas*
+|Actividad|Justificación|Puntos|
+|:----|:---|:---:|
+|Entendimiento del problema, la industria y el contexto| Permite recolectar información acerca del entorno del negocio, su sostenibilidad en el tiempo, entender el problema. | 15 |
+|Entrevistas con cliente|Permite conocer los objetivos del negocio y necesidades del cliente. |25|
+|Benchmark| Permite realizar un análisis de la competencia y sus soluciones propuestas ante un problema. | 20 |
+|Entrevistas con usuarios| Para descubrir y entender sus necesidades | 60 |
+|Testeos de prototipos| Permite  detectar problemas en el flujo para así luego realizar cambios y/o mejoras. | 60 |
+|Sketching y wireframing| Fundamental para recibir feedback y así hacer mejoras y modificaciones que no demanden tanto tiempo. | 30 |
+|Prototipado de alta fidelidad| Permite representar una propuesta de solución en base al diseño centrado en la experiencia del usuario,  requerimientos del cliente y objetivos del negocio.| 80 |
+| | |290|
 
-Para realizar este proyecto tuvimos que utilizar una serie de actividades que implementamos en nuestro proceso de UX, las cuales fueron ajustadas en un presupuesto de 290 puntos:
-
-![presupuesto](images/presupuesto.PNG)
 
 
 ## Entendimiento del problema, la industria y el contexto
@@ -447,23 +455,6 @@ en el caso anterior, para crear y validar la solución puedes realizar muchas
 actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
 los recursos que tienes.
 
-## Objetivos y presupuesto:
-
-### Objetivo del proyecto:
-* Idear una solución e-commerce para Dulce Creación, basada en su modelo de negocio y un diseño centrado en la experiencia de sus usuarios.
-
-Para realizar este proyecto tuvimos que utilizar una serie de actividades que implementamos en nuestro proceso de UX, las cuales fueron ajustadas en un presupuesto de 300 puntos:
-
-|Actividad|Justificación|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Permite recolectar información acerca del entorno del negocio, su sostenibilidad en el tiempo, entender el problema. | 15 |
-|Entrevistas con cliente|Permite conocer los objetivos del negocio y necesidades del cliente. |25|
-|Benchmark| Permite realizar un análisis de la competencia y sus soluciones propuestas ante un problema. | 20 |
-|Entrevistas con usuarios| Para descubrir y entender sus necesidades | 60 |
-|Testeos de prototipos| Permite  detectar problemas en el flujo para así luego realizar cambios y/o mejoras. | 60 |
-|Sketching y wireframing| Fundamental para recibir feedback y así hacer mejoras y modificaciones que no demanden tanto tiempo. | 30 |
-|Prototipado de alta fidelidad| Permite representar una propuesta de solución en base al diseño centrado en la experiencia del usuario,  requerimientos del cliente y objetivos del negocio.| 80 |
-| | |290|
 
 ## Entrega
 
