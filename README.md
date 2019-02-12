@@ -137,7 +137,7 @@ El benchmarck nos sirvió para definir qué cosas eran importantes incluir en nu
 
 - Y como referencia de servicio vimos que Wong pone su visión/misión que les da un valor agregado.
 
-![benchMark](images/benchmark.png)
+![Benchmark](images/Benchmark.PNG)
 
 
 ## Definición del público objetivo y síntesis de información
