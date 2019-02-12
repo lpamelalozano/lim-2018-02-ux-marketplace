@@ -157,14 +157,14 @@ Ahora que ya sabemos lo que nuestro usuario desea en una compra en el portal web
 
 La representación de nuestro usuario basado en nuestra investigación es el siguiente:
 
-![userPersona](images/user_persona.png)
+![User Persona](images/user_persona.png)
 
 
 #### *Customer Journey Map (indicando pain y gain points)*
 
 Nos sirvió para identificar que uno de los principales puntos en enfocarnos era las especificaciones de producto, cotización e información que se solicita.
 
-![customerJourneyMap](images/customer_journey_map.png)
+![Customer Journey Map](images/customer_journey_map.png)
 
 ### *Problem statements*
 
