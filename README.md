@@ -7,6 +7,10 @@
 * [Problemas identificados en la investigación del cliente y del usuario](#Problemas-identificados-en-la-investigación-del-cliente-y-del-usuario)
 * [Definición del público objetivo y síntesis de información](#Definición-del-público-objetivo-y-síntesis-de-información)
 * [Definición de la solución/producto](#Definición-de-la-solución/producto)
+* [Prototipos](#Prototipos)
+* [Flujo de usuario](#Flujo-de-usuario)
+* [Mapa de sitio](#Mapa-de-sitio)
+* [Testing](#Testing)
 * [Link a prototipo navegable](#Link-a-prototipo-navegable)
 * [Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto y resuelven cada uno de las necesidades del usuario final](#Explicación-de-cómo-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto-y-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
 * [Link de Zeplin](#Link-de-Zeplin)
@@ -39,7 +43,7 @@ Dueña de dulce creación es un emprendimiento con poco tiempo de creado se dedi
 ## Problemas identificados en la investigación del cliente y del usuario
 
 #### Entrevista a Cliente
-[Guía de entrevista a Jen Mendoza, dueña de Dulce Creación](link)
+[Guía de entrevista a Jen Mendoza, dueña de Dulce Creación](https://drive.google.com/drive/folders/1Anvrh80G7BGqfrEP_MbZ_4bQb2ASua6N)
 
 Insights de Dulce creación:
 Problemas identificados en la investigación:
@@ -76,10 +80,11 @@ Puntos fuertes de Jen:
 
 - Actualmente no tiene local la preparación la realiza en su casa.
 
-#### Usuarios
-[Ver encuestas online](https://docs.google.com/forms/d/1OCtwRTskTwUCD3cPlqPDEpWxnjSHXAoVTI4L0dpBrPY/edit#responses)
+#### Entrevista a usuarios:
 
-[Guía de entrevista a usuarios](link)
+[Ver encuesta online](https://docs.google.com/forms/d/1OCtwRTskTwUCD3cPlqPDEpWxnjSHXAoVTI4L0dpBrPY/edit#responses)
+
+[Guía de entrevista a usuarios](https://drive.google.com/drive/folders/1YWt8mkqV0G02X34igaSOs_2983dHO933)
 
 Utilizamos entrevistas con usuarios y encuestas online.
 
@@ -232,7 +237,7 @@ Este portal e-commerce aumentará la eficiencia en contacto de clientes, solicit
 
 ## Prototipos
 
-[Link a prototipos de Baja Fidelidad](link)
+[Link a prototipos de Baja Fidelidad](https://drive.google.com/drive/folders/1nDOZky9vCNnGG7cwLojivL4t8dch3n1R)
 
 [Link a prototipo navegable de Alta Fidelidad](https://www.figma.com/proto/eBieJSIZXVQVBKtnCdSbIaFZ/MP-Alta-fidelidad-movil?node-id=38%3A65&viewport=318%2C469%2C0.207912&scaling=scale-down)
 
@@ -241,7 +246,7 @@ Este portal e-commerce aumentará la eficiencia en contacto de clientes, solicit
 ## Mapa de sitio
 
 ## Testing
-[Videos y guía de testing](link)
+[Videos y guía de testing](https://drive.google.com/drive/folders/1VOGFRlz7QYSZaE_qx8han1NHxNbj-Vc9)
 
 
 ## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto y resuelven cada uno de las necesidades del usuario final.
