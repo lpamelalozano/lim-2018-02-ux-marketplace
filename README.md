@@ -241,6 +241,8 @@ Este portal e-commerce aumentará la eficiencia en contacto de clientes, solicit
 ## Mapa de sitio
 
 ## Testing
+[Videos y guía de testing](link)
+
 
 ## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto y resuelven cada uno de las necesidades del usuario final.
 
