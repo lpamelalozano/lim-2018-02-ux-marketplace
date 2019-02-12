@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>dulcecreación</title>
+    <link rel="shortcut icon" type="image/png" href="img/poke_icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <header>
+        <button id="burguerMenu"><img id="burguer" class="icon" src="view/assets/img/burguer.png" alt="burguer menu"></button>
+        <img id="logo" src="view/assets/img/-logo.jpg" alt="dulcecreacion logo">
+        <h1>dulcecreación</h1>
+
+        <nav id="menu-content">
+            <ul>
+                <li class="menu"><a href="#">Tienda</a></li>
+                <li class="menu"><a href="#">Nosotros</a></li>
+                <li class="menu"><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+
+        <div id="carShopContainer">
+            <p class="circle">0</p>
+            <button id="carShopButton"><img id="carShop" class="icon" src="view/assets/img/cart-of-ecommerce.png" alt="car shop"></button>
+        </div>
+
+
+        <div id="carShopList">
+            <div>
+                <button id="close">X</button>
+            </div>
+            <h3>MI CARRITO DE COMPRAS</h3>
+            <p>Aún no tienes productos en tu carrito.</p>
+            <button class="button" id="backShop">Volver a la tienda</button>
+        </div>
+
+    </header>
+
+    <section id="about">
+        <div id="about-description">Más que una pastelería...</div>
+        <button class="button">Descúbrenos</button>
+    </section>
+
+    <section id="ourProducts">
+        <h2>Nuestros productos</h2>
+
+          <div class="list">
+            <div class="item">
+                <img class="product" src="view/assets/img/1.png" alt="">
+                <h3 class="name-product">TORTAS TEMÁTICAS</h3>
+                <h4 class="name-price">S/.9</h4>
+                <button class="button-comprar" onclick="comprarCupcake()">COMPRAR     </button>
+            </div>
+            <div class="item white">
+                <img class="product" src="view/assets/img/1.png" alt="">
+                <h3 class="name-product">TORTAS BUTTERCREAM</h3>
+                <h4 class="name-price">S/.9</h4>
+                <button class="button-comprar">COMPRAR     </button> 
+            </div>
+            <div class="item white">
+                <img class="product" src="view/assets/img/1.png" alt="">
+                <h3 class="name-product">NAKED CAKE</h3>
+                <h4 class="name-price">S/.9</h4>
+                <button class="button-comprar">COMPRAR     </button>
+            </div>
+
+            <div class="content">
+        
+        
+          </div>
+        </div>
+        <button class="button">Ir a la tienda</button>
+    </section>
+
+    <section id="howShop">
+        <h2>¿Cómo comprar online?</h2>
+        <div id="steps">
+            <div class="position stepContent">
+                <h3 class="stepcircle" id="stepOne">1</h3>
+                <h4>Éscoge tu producto</h4>
+            </div>
+
+            <div class="position stepContent">
+                <h3 class="stepcircle">2</h3>
+                <h4>LLena tus datos personales y del modo de entrega</h4>
+            </div>
+
+            <div class="position stepContent">
+                <h3 class="stepcircle">3</h3>
+                <h4>Escoge el método de pago</h4>
+            </div>
+
+            <div class="position stepContent">
+                <h3 class="stepcircle">4</h3>
+                <h4>Confirma tu compra y ¡listo!</h4>
+            </div>
+        </div>
+    </section>
+
+    <section id="personaliza">
+        <h2>text</h2>
+        <p id="personaliza-info">text</p>
+        <button class="button">Personaliza</button>
+    </section>
+
+    <footer>
+       
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="controller/main.js"></script>
+
+</body>
+
+</html>
