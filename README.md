@@ -12,7 +12,7 @@
 * [Mapa de sitio](#Mapa-de-sitio)
 * [Testing](#Testing)
 * [Link a prototipo navegable](#Link-a-prototipo-navegable)
-* [Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto y resuelven cada uno de las necesidades del usuario final](#Explicación-de-cómo-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto-y-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
+* [Explicación de la solución](#Explicación-de-cómo-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto-y-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
 * [Link de Zeplin](#Link-de-Zeplin)
 * [Video Loom explicativo](#Video-Loom-explicativo)
 
