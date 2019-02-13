@@ -263,7 +263,7 @@ Este portal e-commerce aumentará la eficiencia en contacto de clientes, solicit
 
 ## Flujo de usuario
 
-![User Flow](images/user_flow_mp.PNG)
+![User Flow](images/user_flow_mp.png)
 
 En figma:
 
