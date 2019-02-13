@@ -37,48 +37,48 @@ Para realizar este proyecto tuvimos que utilizar una serie de actividades que im
 
 ## Entendimiento del problema, la industria y el contexto
 
-Dueña de dulce creación es un emprendimiento con poco tiempo de creado se dedica a la elaboración de tortas y cupcakes situado en  Cuzco, su propietaria Jen Mendoza con experiencia en temas de calidad y temas sociales se mudó a Cuzco hace 2 años y medio y comenzó en diciembre del 2018 este emprendimiento donde coordina el pedido y entrega de sus productos por whatsApp, actualmente es la que se encarga de todo las actividades relacionadas con el negocio, trabaja sola pero  su visión con este emprendimiento no es solo mejorar su situación personal y familiar sino que tiene la meta a largo plazo que al aumentar sus ventas y tenga la necesidad de contratar más mano de obra pueda dar trabajo y capacitación a mujeres en situación económica desfavorable o mujeres víctimas de violencia familiar en la la localidad de San Jerónimo Cuzco y este llegue  a ser un emprendimiento social.
+Dulce creación es una pequeña empresa que se dedica a la elaboración de tortas y cupcakes situado en  Cusco, San Jerónimo. Su propietaria Jen Mendoza, con experiencia en temas sociales y de calidad, comenzó en diciembre del 2018 con este proyecto en donde coordina el pedido y entrega de sus productos mediante WhatsApp. Actualmente, es la que se encarga de todas las actividades relacionadas con el negocio, trabaja sola pero su visión con este emprendimiento va más alla de mejorar su situación personal, económica y familiar. Jen tiene como meta aumentar sus ventas para tener la necesidad de contratar más mano de obra pueda dar trabajo y capacitación a mujeres en situación económica desfavorable o mujeres víctimas de violencia familiar en la la localidad de San Jerónimo Cusco y este llegue a ser un emprendimiento social.
 
 
-## Problemas identificados en la investigación del cliente y del usuario
+## Problemas identificados en la investigación del cliente y usuario
 
 #### Entrevista a Cliente
 [Guía de entrevista a Jen Mendoza, dueña de Dulce Creación](https://drive.google.com/drive/folders/1Anvrh80G7BGqfrEP_MbZ_4bQb2ASua6N)
 
 Insights de Dulce creación:
+
 Problemas identificados en la investigación:
 
 - Básicamente lo que Jen necesita es incrementar sus ventas no solo por motivos personales sino también para poder concretar su visión social ya que al haber más pedidos podría contratar a mujeres como mano de obra de dulce creación y brindarles al mismo tiempo capacitación.
 
-- Actualmente da a conocer sus productos por Facebook lo que le demanda tiempo al mandar invitaciones personalizadas a sus contactos de sus cuenta personal asimismo también sale a repartir sus volantes.
+- Algunos clientes le solicitan un cita previa para ponerse de acuerdo con las especificaciones de la torta (porciones, sabor, relleno y temática) para lo cual Jen lleva un catálogo para mostrarles.
 
-- También algunos clientes le solicitan un cita previa para ponerse de acuerdo con las especificaciones de la torta (porciones, sabor, relleno) y temática para lo cual Jen lleva un catálogo para mostrarles.
+- Su producto estrella son las tortas temáticas pero además vende tortas no temáticas, cupcakes temáticos/no temáticos, naked cake, y cake pops.
 
-- Su producto estrella son las tortas temáticas pero además vende tortas no temáticas, cupcakes temáticos/no temáticos y cake pops.
-
-- Las ventas que tiene actualmente se debe a recomendación de sus conocidos y el boca a boca pero ella desearía abarcar más mercado de empresas y familias de todo cuzco así como también turistas donde hay un gran mercado potencial debido al gran flujo que hay en cuzco.
+- Las ventas que tiene actualmente se debe a recomendación de sus conocidos y el boca a boca pero ella desearía abarcar más mercado de empresas y familias de todo Cusco, así como también turistas donde hay un gran mercado potencial debido al gran flujo que hay en Cusco.
 
 - No cuenta con página web por los costos que le demandaría (dominio, programador, fotógrafo, etc.)
 
 - El canal de comunicación principal que tiene con sus clientes es WhatsApp.
 
-- Actualmente trabaja sola y es la que realiza todas las actividades en su emprendimiento.
+- Trabaja sola y es la que realiza todas las actividades en su emprendimiento.
 
-- Deben hacerle el pedido con 3 días de anticipación.
+- El pedido se realiza con 3 días de anticipación.
+
+- Actualmente no tiene local, la preparación la realiza en su casa.
 
 Puntos fuertes de Jen:
 
-- La Personalización de su producto (tortas temáticas y no temáticas, relleno, sabor, etc.)
+- La personalización de su producto.
 
 - Cumplimiento de plazos y entrega con puntualidad.
 
-- Buena Calidad de sus productos.
+- Buena calidad de sus productos.
 
 - Las imágenes que cuelga son de sus productos.
 
 - Siempre trata de centrarse en la calidad de la atención.
 
-- Actualmente no tiene local la preparación la realiza en su casa.
 
 #### Entrevista a usuarios:
 
@@ -89,13 +89,12 @@ Puntos fuertes de Jen:
 Utilizamos entrevistas con usuarios y encuestas online.
 
 Insights de la investigación:
-Encontramos lo siguiente:
 
 - El mayor porcentaje de personas prefiere poder escoger pagar con tarjeta de débito/crédito o efectivo. Y la gente que no compra por internet lo hace por la desconfianza en medios de pagos.
 
 - Les molesta cuando las páginas no tienen descripción de los productos ya que no tienen la información necesaria para tomar decisión de compra.
 
-- Valoran el ahorro de tiempo que hacen al hacer el pedido online y poder escoger la entrega con delivery sobre todo si el lugar de recojo queda lejos y el ahorro de pasaje y poder recogerlo en la tienda si les queda cerca o así lo requieren.
+- Valoran el ahorro de tiempo que hacen al hacer el pedido online y poder escoger la entrega con delivery sobre todo si el lugar de recojo queda lejos, o poder recogerlo en la tienda si les queda cerca.
 
 - La mayoría de personas tienen experiencia comprando online pero no lo hacen seguido pero les motiva a hacerlo si reciben ofertas y promociones ya que suelen aprovechar y compran si es que las hay.
 
@@ -103,11 +102,11 @@ Encontramos lo siguiente:
 
 - Clientes que compran postres por internet desean que las fotos de los productos que la empresa publica corresponda con el producto que se les entrega y no sea una foto sacada de internet.
 
-- Valoran la entrega puntual en plazos establecidos. Sus páginas favoritas online son las que cumplen principalmente esto.
+- Valoran la entrega puntual en plazos establecidos. 
 
 - Otra razón por la que compran online es si son productos que no encuentran en tiendas físicas.
 
-- La mayoría que compra online lo hace en por plataforma de ventas por encima de redes sociales.
+- La mayoría que compra online lo hace mediante plataformas de ventas por encima de redes sociales.
 
 - Asimismo deciden comprar por internet si la experiencia es “cómoda” es decir si no tienen ningún problema con la comprar online. Valoran usabilidad de la página esto relacionado con el diseño de la página y estructura del contenido.
 
@@ -125,20 +124,18 @@ Encontramos lo siguiente:
 
 #### Benchmark
 
-Para que nos sirvió:
+El benchmarck nos sirvió para definir qué cosas eran importantes incluir en nuestro portal web. Hicimos un comparativo con empresas del mismo rubro y otras referencias que eran un buen ejemplo de éxito por su servicio como Wong y Glovo.
 
-El benchmarck nos sirvió para definir qué cosas eran importantes incluir en nuestro portal web hicimos un comparativo con empresas del mismo rubro y otras referencias que eran un buen ejemplo de éxito por su servicio como Wong y Glovo.
-
-- Confirmamos la importancia de dar beneficios al cliente habitual con ofertas/cupones sobre todo en las empresas que tomamos como referencia de éxito en servicio como Wong y Glovo según comentarios de usuarios.
+- Confirmamos la importancia de dar beneficios al cliente habitual con ofertas /cupones sobre todo en las empresas que tomamos como referencia de éxito en servicio como Wong y Glovo según comentarios de usuarios.
 
 - Todos nuestros referentes mejoran tienen una información detallada del producto.
 
 - La mayoría tiene la opción de recojo en tienda o delivery.
-- Casi todos dan varias opciones de pago para escoger al cliente tarjeta de débito/crédito, depósito o efectivo.
+- Casi todos dan varias opciones de pago para escoger al cliente tarjeta de débito /crédito, depósito o efectivo.
 
 - La mayoría con página web e-commerce.
 
-- Y como referencia de servicio vimos que Wong pone su visión/misión que les da un valor agregado.
+- Y como referencia de servicio vimos que Wong pone su visión / misión que les da un valor agregado.
 
 ![Benchmark](images/herramienta_benchmark.PNG)
 
@@ -146,12 +143,34 @@ El benchmarck nos sirvió para definir qué cosas eran importantes incluir en nu
 
 #### Afinnity Map
 
-Realizamos nuestro mapa de afinidad para  encontrar los temas más  recurrentes e importantes para  nuestros usuarios.
+Realizamos nuestro mapa de afinidad para  encontrar los temas más  recurrentes e importantes para  nuestros usuarios, en el obtuvimos algunas conclusiones y matchs:
 
 Utilizamos la herarmienta online RealtimeBoard el link se encuentra abajo.
 
-
 ![Afinity Map](images/affinity_map.jpg)
+
+##### Diseño e implementación del producto:
+* Información detallada y concisa
+* Fotos reales, con calidad y profesionales del producto
+* Recomendación de otros productos al momento de comprar.
+* Personalización 
+
+##### Dispositivos:
+* Celular: permite poder comprar desde cualquier parte.
+
+##### Envío y pago: 
+* Canales de contacto en caso suceda algún imprevisto con la compra.
+* Delivery es la principal opción de los usuarios, siguiendo por recojo en tienda.
+* Los usuarios prefieren pagar con tarjetas de débito o credito.
+
+##### Proceso de compra: 
+* Flujo claro y fácil en el proceso de compra.
+
+##### Motivaciones:
+* Descuentos y promociones.
+* Puntualidad en la entrega.
+* Exclusividad y personalización del producto.
+* Buena calidad del servicio y producto.
 
 [Link Afinity Map](https://realtimeboard.com/welcomeonboard/ccjG8e29d0V20xnK449iq2DmP27deLC1YleTjtXCHWl1e4zJPWiJ2wtehD6iVNFk)
 
@@ -163,7 +182,7 @@ La representación de nuestro usuario basado en nuestra investigación es el sig
 ![User Persona](images/user_persona.png)
 
 
-#### *Customer Journey Map (indicando pain y gain points)*
+#### Customer Journey Map (indicando pain y gain points)
 
 Nos sirvió para identificar que uno de los principales puntos en enfocarnos era las especificaciones de producto, cotización e información que se solicita.
 
@@ -177,7 +196,7 @@ Nos sirvió para identificar que uno de los principales puntos en enfocarnos era
 
 - Cliente necesita disponer de una variedad de formas de pago online para elegir la que sea más accesible para él y/o le genere seguridad.
 
-- cliente necesita incentivos para fidelizarse con la empresa.
+- Cliente necesita incentivos para fidelizarse con la empresa.
 
 ### *How Might We-HMW*
 
@@ -199,40 +218,41 @@ Nos sirvió para identificar que uno de los principales puntos en enfocarnos era
 
 - ¿What if se les envía un catálogo online mensual al correo a los usuarios frecuentes con los detalles de los productos en stock actualizada?
 
-## Definición de la solución/producto
+## Definición de la solución / producto
 
-Luego de haber realizado la síntesis de la información en el diseño del  portal resaltamos los puntos fuertes del cliente Dulce creación y asimismo el diseño del portal e-commerce incluye las principales características que valoran y necesitan los usuarios.
+Luego de haber realizado la síntesis de la información en el diseño del portal, resaltamos los puntos fuertes del cliente Dulce creación y asimismo el diseño del portal e-commerce incluye las principales características que valoran y necesitan los usuarios.
 
-•	**¿Quiénes son los principales usuarios de producto?**
+**¿Quiénes son los principales usuarios de producto?**
 
-Son personas que compran habitualmente postres que usan internet para hacer sus compras.
+Son personas que compran habitualmente postres y/o que usan internet para hacer sus compras.
 
-•	**¿Cuáles son los objetivos del negocio en relación con el producto?**
+**¿Cuáles son los objetivos del negocio en relación con el producto?**
 
  Se desea que este portal e-commerce aumente las ventas y estas se hagan de manera más eficiente que como se realiza actualmente por WhatsApp.
 
-•	**¿Cuáles son los objetivos de estos usuarios en relación con el producto?**
+**¿Cuáles son los objetivos de estos usuarios en relación con el producto?**
 
-Hacer la compra de su torta/cupcake por intetnet de manera fácil,agil y que le entreguen el producto que espera en el plazo establecido.
+Hacer la compra de su torta/cupcake por intetnet de manera fácil, agil y que le entreguen el producto que espera en el plazo establecido.
 
-•	**¿Cuál será la propuesta de valor del sitio que vas a crear?**
+**¿Cuál será la propuesta de valor del sitio que vas a crear?**
 
 Comprar tortas personalizadas por internet de manera fácil y confiable.
 
-•	**¿Cuáles son los contenidos que el usuario quiere ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo?**
+**¿Cuáles son los contenidos que el usuario quiere ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo?**
 
-El usuario puede escoger las características de su producto, precio del producto que desea, recomendaciones en la página libertad de opciones en modalidad de pago y entrega del producto.
+El usuario puede escoger las características de su producto, precio del producto que desea, recomendaciones en la página de otros usuarios, libertad de opciones en modalidad de pago y entrega del producto.
 
-•	**¿Cómo vas a distribuir y entregar esos contenidos?**
+**¿Cómo vas a distribuir y entregar esos contenidos?**
+
  A través de un portal e-commerce responsive.
 
-•	**¿Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web?**
+**¿Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web?**
 
-Ingresar a la página,dar click en producto de interés,llenar especificaciones de producto que desea,añadir a carrito,confirmar compra,agregar dedicatoria si deseas para tu producto,elegir opción de entrega,método  de pago,finalizar compra,escoger tipo de comprobante.
+Ingresar a la página, dar click en producto de interés, llenar especificaciones de producto que desea ,añadir a carrito, confirmar compra, agregar dedicatoria si deseas para tu producto, elegir opción de entrega, método  de pago, finalizar compra, escoger tipo de comprobante.
 
-•	**¿Cómo crees que el producto les está resolviendo sus problemas?**
+**¿Cómo crees que el producto les está resolviendo sus problemas?**
 
-Este portal e-commerce aumentará la eficiencia en contacto de clientes, solicitud y entrega de pedidos ya que actualmente se realiza solamente por Facebook y whatsapp además incremente su exposición a diferentes públicos como pobladores de cuzco, turistas, personas jurídicas porque actualmente dueña de dulce creación solo se publicita con sus amigos de Facebook o volantes y principalmente porque mejora la experiencia de compra del usuario al incluir características en la página que él desea o espera por sus anteriores experiencias positivas en compras online y que hemos recogido en la investigación.
+Este portal e-commerce aumentará la eficiencia en contacto de clientes, solicitud y entrega de pedidos ya que actualmente se realiza solamente por Facebook y Whatsapp. Además, incrementará su exposición a diferentes públicos como pobladores de diversos distritos de Cusco, turistas, personas jurídicas porque actualmente dueña de dulce creación solo se publicita con sus amigos de Facebook o volantes y principalmente porque mejora la experiencia de compra del usuario al incluir características en la página que él desea o espera por sus anteriores experiencias positivas en compras online y que hemos recogido en la investigación.
 
 
 ## Prototipos
@@ -248,15 +268,17 @@ Este portal e-commerce aumentará la eficiencia en contacto de clientes, solicit
 ## Testing
 [Videos y guía de testing](https://drive.google.com/drive/folders/1VOGFRlz7QYSZaE_qx8han1NHxNbj-Vc9)
 
+Finalmente realizamos las sesiones de testing con 10 usuarios en total (5 en los prototipos de baja, y 5 en alta.) Entre ellos estaban personas que les gustaban los postres, personas que compraban por internet y usuarios que no tenían mucho conocimiento del sector. En líneas generales, obtuvimos bastante feedback para iterar nuestros prototipos, los principales recaían en las confirmaciones de las acciones de compra (recordar y mostrar al usuario en una pantalla final qué productos son los que ha comprado, más allá de agradecer por la compra.) Sin embargo, en cuanto al flujo de compra obtuvimos buen feedback de los usuarios que nos dijeron que el proceso de compra era bastante fluido, entendible y sencillo para ellos.
 
 ## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto y resuelven cada uno de las necesidades del usuario final.
 
-El diseño del portal e-commerce creado esta realizado en base a la información que recogimos y analizamos en nuestra investigación por lo que está centrado en el usuario y el los objetivos del cliente.
+El diseño del portal e-commerce creado esta realizado en base a la información que recogimos y analizamos en nuestra investigación por lo que está centrado en el usuario y en los objetivos del cliente.
 
 
 *Implementación de la solución*
 
 •	Apenas se ingresa a la página se ve una selección de imágenes de los productos que vende y en primer lugar en el lugar de la pantalla más estratégico esta su producto estrella las tortas temáticas.
+
 •	Al dar clic en la imagen se muestran los productos de su catálogo y el precio correspondiente.
 
 •	 Clientes puedan ver y escoger las especificaciones del producto como: escoger temáticas, número de porciones, relleno, sabor y ver el precio total resultante de la opción escogida así el cliente cuenta con toda la información.
@@ -269,7 +291,7 @@ El diseño del portal e-commerce creado esta realizado en base a la información
 
 •	También tiene la sección de comentarios de clientes ya que estos valoran mucho poder leerlo antes de realizar la compra.
 
-•	Asimismo para que la experiencia del cliente sea eficiente se le va dando feedback de sus acciones principales como indicarle que ha añadido un producto a su cesta de compras, también al finalizar su pedido se le agradece y se le da su número de pedido.
+•	Para que la experiencia del usuario sea eficiente se le va dando feedback de sus acciones principales como indicarle que ha añadido un producto a su cesta de compras, también al finalizar su pedido se le agradece y se le da su número de pedido.
 
 •	La distribución de la página está centrado en los productos y que intuitivamente el usuario le dé clic pueda ver y escoger las especificaciones del producto que desea y que esto le lleve a comprar.
 
@@ -278,7 +300,7 @@ El diseño del portal e-commerce creado esta realizado en base a la información
 •	Se ha incluido en el portal actividades que actualmente le demandan tiempo a la dueña de dulce creación y que le ahorrarán como: la elección de especificaciones de la torta que antes tenía que realizar a veces de manera presencial, la publicidad que antes se realizaba boca a boca, en el diseño del portal e-commerce esta la sección donde los usuarios recomiendan y que puede llegar a más personas que lo ve al ingresar a la página.
 
 
-Esperamos que de implementarse el diseño resulte en un aumento de ventas ya que se espera que con este portal aumente la eficiencia en contacto de clientes, solicitud y entrega de pedidos e incremente su exposición a diferentes públicos como pobladores de cuzco, turistas, personas jurídicas.
+Esperamos que de implementarse el diseño resulte en un aumento de ventas ya que se espera que con este portal aumente la eficiencia en contacto de clientes, solicitud y entrega de pedidos e incremente su exposición a diferentes públicos como pobladores de cusco, turistas, personas jurídicas.
 
 
 ## Link de Zeplin
