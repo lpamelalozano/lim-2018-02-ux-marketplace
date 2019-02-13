@@ -1,120 +1,134 @@
-@import url('https://fonts.googleapis.com/css?family=Lato');
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Quicksand;
+}
 
-  *:focus { 
-    outline: none;
-  }
-  
-  body{
-    margin:0;
-  }
-  
-  header{
+.header {
+    text-align: right;
     width: 100%;
-    height:100px;
-  }
-  
-  h1{
-    display:none;
-  }
-  
-  header nav{
-    width: 70%;
-    height: 50%;
-    position: fixed;
-  }
-  
-  header nav ul{
-    list-style: none;
-  }
-  
-  header nav ul li a{
-    color: white;
-    text-decoration: none;
-  }
-  
-  section{
-    width: 100%;
-    height: 251px;
-    color: #FFFFFF;
-  }
-  
-  h2{
+    position: absolute;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    top: 0px;
+    left: 0px;
+    z-index: 999;
+}
+
+
+
+.name-product {
+    
+    font-size: 25px;
+    color: #565656;
+    margin: 10px;
+    text-align: center;
+    height: 41px;
+    border: 0.5px solid rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+
+}
+
+
+.name-price {
+    
     font-size: 20px;
-    font-weight: 700;
-    line-height: 22.67px;
-    width: 100%;
+    color: #565656;
+    margin: 15px;
     text-align: center;
-    margin: 0;
-    padding-top: 1em;
-    padding-bottom: 1em;
-  }
-  
-  h3{
-    font-size: 13.33px;
-    font-weight: 700;
-    text-align: center;
-    margin: 0;
-  }
-  
-  h4{
-    color: #47525E !important;
-    font-size: 13.33px;
-    font-weight: 400;
-    text-align: center;
-    margin: 0;
-  }
-  
-  h5{
-    margin: 0;
-    font-size: 0.5em;
-    text-align: center;
-  }
-  
-  #burguerMenu, #carShopButton{
-    border: none;
-    background: none;
-  }
-  
-  #carShopContainer, #logo, #burguerMenu{
+
+}
+
+.responsive-menu {
+    display: none;
+}
+
+.logo {
     float: left;
-  }
-  
-  #burguerMenu{
-    padding-left:0;
-    padding-right: 7px;
-    padding-left: 7px;
+}
+
+.logo img {
+    width: 140px;
+}
+
+.icons-actions-2{
+    display: inline-block;
+}
+
+.search {
+    width: 32px;
+    padding: 5px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.search img {
+    width: 100%;
+}
+
+.bag {
+    width: 32px;
+    padding: 4px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.bag img {
+    width: 100%;
+}
+
+
+.navigator-menu {
+    text-align: right;
+    display: inline-block;
+}
+
+.menu {
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+    font-size: 16px;
+    color: #ffff;
+    display: inline-block;
+    
+}
+
+.menu a {
+    color: #ffff;
+    text-shadow: 1px 1px #888888;
+}
+
+.menu a:hover {
+    color: #358E81;
+    border-bottom: 2px solid #358E81;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li a {
+    display:  inline-block;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+.menu-close {
+    display: none;
+}
+
+.hero img {
+    width: 100%;
+}
+.name-category {
+    color: #725247;
     text-align: center;
-  }
-  
-  #carShopButton{
-    padding: 0;
-  }
-  
-  #carShopContainer,#burguerMenu{
-    margin-top: 10%;
-  }
-  
-  #iconsContent{
-   margin-left: 1%;
-   height: 100%;
-  } 
-  .circle {
-      background-color: #F95F62;
-      border-radius: 100%;
-      width: 14px;
-      height: 14px;
-      margin: 0;
-      font-size: 12px;
-      float:right;
-      text-align: center;
-  }
-  
-  #logo{
-    width: 100px;
-    height: 100px;
-  }
-  
-  .list {
+    padding: 25px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.list {
     max-width: 1200px;
     margin: auto;
     display: flex;
@@ -125,686 +139,151 @@
     justify-content: space-evenly;
     margin-bottom: 50px;
 }
-  #carShopContainer, #logo{
-  margin-left: 20%;
-  }
-  
-  .name-category {
-    color: #725247;
-    text-align: center;
-    padding: 25px;
-    font-size: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+.selector {
+    background-color: #DCF4EB;
+    border: 2px;
+    border-color: #358E81;
+    border-radius: 10px;
+    width: 33.3%;
+    height: 66%;
+    margin: 10px;
 }
-  .icon{
-    width: 2em;
-    height: 2em;
-  }
-  
-  #about{
-    background-image: url('../img/about.jpg');
-   /*  opacity:0.8; */
-    background-size: cover;
-  }
-  
-  #about-description{
-    font-size: 30px;
-    font-weight: 700;
-    line-height: 26.67px;
-    text-align: left;
-    padding-top: 20%;
-    margin-left: 10%;
-    width: 60%;
-    height: 30%;
-    color: #0000;
-    margin-bottom: 2em;
-  }
-  
-  #ourProducts, #howShop{
-    color: #CDDCDF;
-  }
-  
-  #content{
-    overflow: auto;
-    margin-bottom: 2em;
-  }
-  
-  .products{
-      width: 5.5em;
-      height: 90px;
-  }
-  
-  .position, .positionProducts{
-    float: left;
-    margin-left: 4%;
-  }
-  
-  #steps{
-    height: 40%;
-    background-image: url('../img/coffee-road.png');
-    background-size: 80%;
-    background-repeat: no-repeat;
-    background-position-x: 2.5em; 
-  }
-  
-  .stepContent{
-    width: 20%;
-    height: 35%;
-  }
-  
-  .stepcircle{
-    background-color: #CDDCDF;
-    border-radius: 100%;
-    font-size: 1.5em;
+
+.item {
+    width: 33.3%;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #DCF4EB;
+    border: 2px;
+    border-radius: 10px;
+    border: 1px solid #358E81;
+    width: 33.3%;
+    height: 66%;
+    margin: 20px;  
     text-align: center;
-    color: white;
-    width: 33.33px;
-    height: 33.33px;
-    margin-left: 25%;
-  }
-  
-  #stepOne{
-    background-color: #FEB29B;
-  }
-  
-  #carIcon{
-    width: 66.67px;
-    height: 40px;
-    margin-left: 1em;
-    margin-top: 0.5em;
-  }
-  
- 
-  
-  #personaliza{
-    background-image: url('../img/Coffee-Beans.jpg');
-   /*  opacity:0.8; */
-    background-size: cover;
-  }
-  
-  #personaliza-info{
-    font-size: 16.67px;
-    font-weight: 400;
+}
+
+.white{
+    width: 33.3%;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border: 2px;
+    border-radius: 10px;
+    width: 33.3%;
+    height: 66%;
+    margin: 20px;  
     text-align: center;
-    width: 90%;
-    height: 35%;
-    margin-left: 5%;
-    padding-bottom: 1em;
-  }
-  
-  .button{
-    background-color: #CDDCDF;
-    color: #FFFFFF;
-    border-radius: 5px;
-    width: 50%;
-    height: 3em;
-    font-size: 0.8em;
-    text-align: center;
-    border: none;
-    margin-left: 25%;
-    font-weight: bold;
-  }
-  
-  
-  footer{
-    background-color: #CDDCDF;
-    color: #FFFFFF;
-    font-size: 13.33px;
-  }
-  
-  footer > p { 
-    margin: 0;
-    padding-top: 1em;
-    margin-left: 0.5em;
-    padding-bottom: 1em;
-  }
-  
-  footer > div{
-    overflow: auto;
-    height: 2em;
+}
+
+.product {
     width: 100%;
-  }
-  
-  footer > div > p { 
-    margin: 0;
-    width: 80%;
-    float: left;
-    margin-left: 0.5em;
-  }
-  
-  footer > div > img { 
-    width: 1.5em;
-    height: 1.5em;
-    margin-right: 0.6em;
-  }
-  
-  #footerTitle{
-    font-weight: bold;
-  }
-  
-  #fb, #insta{
-    float: right;
-  }
-  
-  #textFooter:link {
-    color: white;
-    padding: 0;
-  }
-  
-  
-  #menu-content{
-  display:none;
-  width: 90%;
-  margin-top: 5.23em;
-  margin-left: -3em;
-  }
-  
-  .menu {
-    background-color: black; 
-    border: none;
-    border-bottom: 1px solid #FFFFFF;
-    color: white;
-    text-align: center;
-    font-size: 1em;
-    cursor: pointer;
-    display: block;
-  }
-  
-  #carShopList{
-    display: none;
-    width: 80%;
-    height: 80%;
-    position: fixed;
-    background-color: black;
-    color: white;
-    text-align: center;
-    font-size: 1em;
-    margin-top: 6.23em;
-    margin-left: 4em;
-  }
-  
-  #carShopList p {
-    padding-top: 5em;
-    padding-bottom: 2em;
-    width: 80%;
-    height: 20%;
-    margin-left: 10%;
-  
-  }
-  
-  #carShopList div {
-   overflow: auto;
-  
-  }
-  
-  #close{
-    float: right;
-    margin-top: 0.5em;
-    margin-bottom: 1em;
-    margin-right: 0.5em;
-    border: none;
-    background: transparent;
-    color: white;
-    font-size: 1em;
-  }
-  
-  #backShop{
-    background-color: white;
-    color: black;
-    margin: 0;
-  }
-  
-  
-  @media (min-width: 375px){
-    .button{
-      font-size: 1em;
-    }
-  
-    #carShopContainer, #logo{
-      margin-left: 25%;
-    }
-  
-    #carShopList{
-      margin-left: 5em;
-    }
-  
-    .positionProducts{
-      margin-left: 7%;
-    }
-  
-    #about-description{
-      margin-bottom: 1.5em;
-    }
-  
-  
-    #personaliza-info{
-      padding-bottom: 0.8em;
-    }
-  
-  }
-  
-  @media (min-width: 414px){
-    #carShopContainer, #logo{
-      margin-left: 27%;
-      }
-  
-    #carShopList{
-        margin-left: 5.5em;
-    }
-    
-    .positionProducts{
-      margin-left: 9%;
-    }
-  
+}
 
-  
-    #personaliza-info{
-      padding-bottom: 1.3em;
-    }
-      
-  }
-  
-  
-  @media (min-width: 768px){
-  
-    #carShopContainer,#burguerMenu{
-      margin-top: 4%;
-    }
-  
-    .icon{
-      width: 3em;
-      height: 3em;
-    }
-  
-    #carShopContainer, #logo{
-      margin-left: 34.5%;
-    }
-  
-    #burguerMenu{
-      margin-left: 2%;
-    }
-  
-    section{
-      height: 350px;
-    }
-    
-    h2{
-      font-size: 30px;
-      padding-top: 1em;
-      padding-bottom: 1em;
-    }
-    
-    h3{
-      font-size: 20px;
-    }
-    
-    h4{
-      font-size: 20px;
-      margin-top: 1em;
-    }
-      
-    #about-description{
-      font-size: 50px;
-      line-height: 50px;
-      padding-top: 15%;
-      margin-left: 10%;
-      width: 60%;
-      height: 30%;
-      margin-bottom: 1em;
-    }
-    
-    .products{
-        width: 9em;
-        height: 10em;
-    }
-    
-    .positionProducts{
-      margin-left: 10%;
-    }
-  
-    .position{
-      margin-left:4%;
-    }
-    
-    #steps{
-      background-position-x: 5em;
-      margin-right: 1.5em;
-    }
-    
-  
-    .stepcircle{
-      font-size: 2.5em;
-      width: 50px;
-      height: 50px;
-      margin-left: 32%;
-    }
-    
-    
-    #carIcon{
-      width: 85px;
-      height: 45px;
-      margin-left: 4em;
-      margin-top: 1em;
-    }
-   
- 
-    
-    #personaliza-info{
-      font-size: 25px;
-      width: 70%;
-      height: 35%;
-      margin-left: 15%;
-      padding-bottom: 1em;
-    }
-    
-    .button{
-      width: 33.3%;
-      height: 2em;
-      font-size: 1em;
-      margin-left: 33.3%;
-    }
-    
-    
-    footer{
-      font-size: 16px;
-    }
-    
-    footer > p { 
-      margin-left: 1em;
-      padding-top: 0.5em;
-    }
-    
-    footer > div{
-      height: 2em;
-    }
-    
-    footer > div > p { 
-      width: 60%;
-      margin-left: 1em;
-    }
-    
-    footer > div > img { 
-      width: 2em;
-      height: 2em;
-      margin-right: 1em;
-    }
-  
-    #menu-content{
-    width: 60%;
-    }
-    
-    .menu {
-      font-size: 1.5em;
-    }
-    
-    #carShopList{
-      width: 60%;
-      height: 60%;
-      font-size: 1em;
-      margin-left: 19.5em;
-    }
-    
-    #close{
-      margin-top: 1em;
-      margin-right: 1em;
-      font-size: 1.5em;
-    }
-      
-  }
-  
-  
-  @media (min-width: 1024px){
-  
-    header{
-      height: 80px;
-    }
-    #burguerMenu{
-      display: none;
-    }
-  
-    #logo{
-      margin-left: 0.5em;
-      width: 80px;
-      height: 80px;
-    }
-  
-    h1{
-      display:inherit;
-      font-size: 2em;
-      margin:0;
-      padding-top: 0.6em;
-      width: 30%;
-      float: left;
-    }
-  
-    #carShopContainer{
-      margin: 0;
-      float: right;
-      margin-right: 0.8em;
-      margin-top: -3.5em;
-    }
-  
-    .icon{
-      width: 2em;
-      height: 2em;
-    }
-  
-    .menu{
-      float: left;
-      padding: 0;
-      border: none;
-      background-color: transparent;
-      font-size: 1em;
-  
-    }
-  
-    #menu-content{
-      display: inherit !important;
-      height: 80px;
-      margin-left: 25em;
-      margin-top: -2em;
-      width: 55%;
-    }
-  
-    header nav{
-      position: initial;
-    }
-  
-    nav ul{
-      height: 100px;
-      text-align: center;
-      margin-top: 2em;
-    }
-  
-    nav ul li{
-      height: 70px;
-      text-align: center;
-      width: 100px;
-      margin: 0.5em;
-    }
-    
-  /*   header nav ul li:hover{
-      background-color: #CDDCDF;
-    }
-    header nav ul li a:hover{
-      background-color: #CDDCDF;
-      color: white !important;
-    } */
-  
-    header nav ul li a{
-      color: black;
-      vertical-align:middle;
-      font-weight: bold;
-    }
-  
-    nav ul li:nth-child(1), nav ul li:nth-child(2), nav ul li:nth-child(5){
-      padding-top: 1em;
-      width: 70px;
-    }
-  
-    nav ul li:nth-child(5){
-      width: 90px !important;
-    }
-  
-    nav ul li:nth-child(4){
-      padding-top: 0.5em;
-    }
-  
-    .button{
-      width: 30%;
-      height: 2em;
-      font-size: 1.5em;
-      margin-left: 35%;
-    }
-  
-    #about-description{
-      padding-top: 10%;
-      margin-bottom: 1.5em;
-    }
-    
-    .positionProducts{
-      margin-left: 14%;
-    }
-  
-    .position{
-      margin-left:5%;
-    }
-    
-    #steps{
-      background-position-x: 8em;
-      height: 170px;
-      margin-right: 4em;
-    }
-    
-  
-    .stepcircle{
-      margin-top: 0.3em;
-    }
-  
-    #howShop{
-      margin-top: 2em;
-    }
-    
-    
-    #carIcon{
-      margin-left: 5em;
-    }
-   
-  
-    
-    #personaliza-info{
-      font-size: 25px;
-      width: 60%;
-      height: 35%;
-      margin-left: 20%;
-      padding-bottom: 1em;
-    }
-  
-    #carShopList{
-      font-size: 1.3em;
-      margin-left: 19.7em;
-      margin-top: 0;
-    }
-    
-    #close{
-      margin-top: 1em;
-      margin-right: 1em;
-      font-size: 1.5em;
-    }
-  
-    #backShop{
-        font-size: 1em;
-    }
-  
-  }
-  
-  @media (min-width: 1280px){
-  
-    #menu-content{
-      margin-left: 42em;
-      width: 50%;
-    }
-  
-    header nav ul li:hover{
-      background-color: #CDDCDF;
-    }
-  
-    header nav ul li a:hover{
-  
-      color: white !important;
-    }
-  
-    header nav ul li a{
-      color: black;
-      vertical-align:middle;
-      font-weight: bold;
-    }
-  
-    nav ul li:nth-child(1), nav ul li:nth-child(2), nav ul li:nth-child(5){
-      padding-top: 1em;
-      width: 70px;
-      height: 50px;
-    }
-  
-    nav ul li:nth-child(4){
-      padding-top: 0.5em;
-      height: 58px;
-    }
-  
-    .button{
-      width: 25%;
-      margin-left: 37.5%;
-    }
-  
-    #about-description{
-      padding-top: 8%;
-      width: 50%;
-      margin-bottom: 1em;
-    }
-  
-    #about{
-      background-position-y: -10em;
-    }
-    
-    .positionProducts{
-      margin-left: 17%;
-    }
-    
-    #steps{
-      background-position-x: 8em;
-      margin-right: 0em;
-      background-size: 70%;
-      margin-left: 10em;
-    }
-    
-  
-  
-    #howShop{
-      margin-top: 3em;
-    }
-  
-    .position{
-      margin-left: 2.3%;
-    }
-  
-    #carIcon{
-      margin-left: 15em;
-    }
-   
 
-    #personaliza-info{
-      padding-bottom: 0.5em;
+footer {
+    background-color: #725247;
+    color: #ffff;
+    text-align: center;
+    padding: 50px;
+    padding-left: 20px;
+}
+
+@media (max-width: 700px) { 
+
+    .navigator-menu {
+        background-color: #fff;
+        box-sizing: border-box;
+        padding: 30px 20px;
+        position: fixed;
+        width: 65%;
+        height: 100%;
+        left: -65%;
+        top: 0;
+        transition: all 0.2s ease-in-out;
+        box-shadow: 0 1px 30px rgba(0, 0, 0, 0.3);
     }
-  
-    #carShopList{
-      margin-left: 32.5em;
-      height: 70%;
-      width: 50%;
+
+    .navigator-menu.active {
+        left: 0;
+    }
+
+    .menu-close {
+        display: inline-block;
+        font-size: 20px;
+        font-weight: bold;
+        position: absolute;
+        left: 20px;
+        top: 20px;
+        text-transform: uppercase;
+    }
+
+    .navigator-menu a {
+        color: #333;
+    } 
+
+    .logo img {
+        width: 80px;
+    }
+
+    .responsive-menu {
+        float: left;
+        margin-right: 10px;
+        display: inline-block;
+    }
+
+    .menu li {
+        display: block;
     }
     
-    #close{
-      margin-top: 0.5em;
-      margin-right: 0.5em;
-      font-size: 1em;
+    .menu li a {
+        display: block;
     }
-  }
+
+    .item {
+        width: 50%;
+        box-sizing: border-box;
+        padding: 10px;
+        background-color: #DCF4EB;
+        border: 1px;
+        margin: auto;  
+    }
+    
+    
+    .name-product {
+        font-size: 18px;
+    }
+
+    .button-comprar {
+        font-size: 16px;
+        padding: 12px 10px;
+        height: auto;
+        cursor: pointer;
+        outline: none;
+    }
+
+    .list {
+        max-width: 600px;
+        margin: auto;
+        width: 100%;
+        color: #565656;
+        display:inline;
+        justify-content: space-evenly;
+        margin-bottom: 50px;
+    }
+
+    .white{
+        box-sizing: border-box;
+        padding: 10px;
+        background-color: rgb(255, 255, 255);
+        border: 2px;
+        border-radius: 10px;
+        height: 66%;
+        margin: auto;  
+        margin-top: 10px;
+        text-align: center;
+    }
+    
+}
