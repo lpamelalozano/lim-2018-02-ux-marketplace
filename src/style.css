@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Sacramento');
+
 body {
     padding: 0px;
     margin: 0px;
@@ -16,27 +18,16 @@ body {
 }
 
 
-
 .name-product {
-    
-    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
     color: #565656;
-    margin: 10px;
+    margin: 15px;
+    padding: 10px;
     text-align: center;
     height: 41px;
     border: 0.5px solid rgba(0, 0, 0, 0.7);
     border-radius: 5px;
-
-}
-
-
-.name-price {
-    
-    font-size: 20px;
-    color: #565656;
-    margin: 15px;
-    text-align: center;
-
 }
 
 .responsive-menu {
@@ -125,7 +116,8 @@ body {
     text-align: center;
     padding: 25px;
     font-size: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Lato, sans-serif;
+    margin-top: 60px;
 }
 
 .list {
@@ -142,7 +134,7 @@ body {
 
 
 .selector {
-    background-color: #DCF4EB;
+    background-color: #FFFF;
     border: 2px;
     border-color: #358E81;
     border-radius: 10px;
@@ -155,7 +147,7 @@ body {
     width: 33.3%;
     box-sizing: border-box;
     padding: 10px;
-    background-color: #DCF4EB;
+    background-color: #FFFF;
     border: 2px;
     border-radius: 10px;
     border: 1px solid #358E81;
@@ -180,6 +172,7 @@ body {
 
 .product {
     width: 100%;
+    border-radius: 5px;
 }
 
 
@@ -246,8 +239,9 @@ footer {
         width: 50%;
         box-sizing: border-box;
         padding: 10px;
-        background-color: #DCF4EB;
+        background-color: #FFFFFF;
         border: 1px;
+        border-color:linear-gradient(white, white), radial-gradient(circle at top left, #f00,#3020ff);
         margin: auto;  
     }
     
