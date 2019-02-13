@@ -188,7 +188,7 @@ Nos sirvió para identificar que uno de los principales puntos en enfocarnos era
 
 ![Customer Journey Map](images/customer_journey_map.png)
 
-### *Problem statements*
+### Problem statements
 
 - Cliente necesita ver información detallada del producto para facilitar su decisión de compra.
 
@@ -198,7 +198,7 @@ Nos sirvió para identificar que uno de los principales puntos en enfocarnos era
 
 - Cliente necesita incentivos para fidelizarse con la empresa.
 
-### *How Might We-HMW*
+### How Might We-HMW
 
 - ¿HMW que nuestros usuarios tengan toda la información antes de adquirir un producto?
 
@@ -275,7 +275,7 @@ Finalmente realizamos las sesiones de testing con 10 usuarios en total (5 en los
 El diseño del portal e-commerce creado esta realizado en base a la información que recogimos y analizamos en nuestra investigación por lo que está centrado en el usuario y en los objetivos del cliente.
 
 
-*Implementación de la solución*
+**Implementación de la solución**
 
 •	Apenas se ingresa a la página se ve una selección de imágenes de los productos que vende y en primer lugar en el lugar de la pantalla más estratégico esta su producto estrella las tortas temáticas.
 
@@ -303,11 +303,14 @@ El diseño del portal e-commerce creado esta realizado en base a la información
 Esperamos que de implementarse el diseño resulte en un aumento de ventas ya que se espera que con este portal aumente la eficiencia en contacto de clientes, solicitud y entrega de pedidos e incremente su exposición a diferentes públicos como pobladores de cusco, turistas, personas jurídicas.
 
 
-## Link de Zeplin
+## Documentación
 
-[Zeplin](link)
+[Link a Zeplin](link)
 
-## Video Loom explicativo
+[Video a Loom explicando el proceso](link)
+
+[Carpeta de drive](link)
+
 
 
 
