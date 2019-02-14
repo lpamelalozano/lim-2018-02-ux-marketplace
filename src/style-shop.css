@@ -211,10 +211,14 @@ footer {
     color: rgb(29, 28, 28);
     text-align: center;
     padding: 30px;
-    padding-left: 20px;
     margin-top: 30px;
+    font-family: lato,sans-serif;
+    font-size: 20px;
 }
 
+h4 {
+  font-size: 15px;
+}
 
 @media only screen and (max-width: 414px) { 
     .navigator-menu {
@@ -239,7 +243,6 @@ footer {
 
     .slide-item2 {
         justify-content: center;
-        margin-left: 8%;
         text-align: center;
         margin-top: 20px;
     }
@@ -280,24 +283,11 @@ footer {
     .name-category {
         color: #725247;
         text-align: center;
-        padding: 20px;
         font-size: 20px;
+        margin-right: 5%;
         text-align: center;
         font-family: Lato, sans-serif;
-        margin-top: 40px;
-    }
-
-
-    .white{
-        box-sizing: border-box;
-        padding: 10px;
-        background-color: rgb(255, 255, 255);
-        border: 2px;
-        border-radius: 10px;
-        height: 66%;
-        margin: auto;  
-        margin-top: 10px;
-        text-align: center;
+        margin-top: 60px;
     }
     
 }
