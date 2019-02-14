@@ -102,7 +102,7 @@ Insights de la investigación:
 
 - Clientes que compran postres por internet desean que las fotos de los productos que la empresa publica corresponda con el producto que se les entrega y no sea una foto sacada de internet.
 
-- Valoran la entrega puntual en plazos establecidos. 
+- Valoran la entrega puntual en plazos establecidos.
 
 - Otra razón por la que compran online es si son productos que no encuentran en tiendas físicas.
 
@@ -153,17 +153,17 @@ Utilizamos la herarmienta online RealtimeBoard el link se encuentra abajo.
 * Información detallada y concisa
 * Fotos reales, con calidad y profesionales del producto
 * Recomendación de otros productos al momento de comprar.
-* Personalización 
+* Personalización
 
 ##### Dispositivos:
 * Celular: permite poder comprar desde cualquier parte.
 
-##### Envío y pago: 
+##### Envío y pago:
 * Canales de contacto en caso suceda algún imprevisto con la compra.
 * Delivery es la principal opción de los usuarios, siguiendo por recojo en tienda.
 * Los usuarios prefieren pagar con tarjetas de débito o credito.
 
-##### Proceso de compra: 
+##### Proceso de compra:
 * Flujo claro y fácil en el proceso de compra.
 
 ##### Motivaciones:
@@ -271,6 +271,8 @@ En figma:
 
 ## Mapa de sitio
 
+![sitemap](images/sitemap.PNG)
+
 ## Testing
 [Videos y guía de testing](https://drive.google.com/drive/folders/1VOGFRlz7QYSZaE_qx8han1NHxNbj-Vc9)
 
@@ -375,4 +377,3 @@ propia web desde 0.
 utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
 
 - Escribe un post en Medium contando tu proceso de investigación
-
