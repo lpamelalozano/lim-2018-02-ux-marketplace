@@ -15,6 +15,7 @@ body {
     top: 0px;
     left: 0px;
     z-index: 999;
+    background:  rgba(182, 199, 255, 0.911) ;
 }
 
 
@@ -38,10 +39,23 @@ body {
     float: left;
 }
 
+
 .logo img {
     width: 170px;
 }
 
+.slide-item{
+    width: 60px;
+    justify-content: center;
+    margin-left: 48%;
+    margin-bottom: 2px;
+}
+
+.slide-item2 {
+    justify-content: center;
+    margin-left: 25%;
+    margin-top: 20px;
+}
 .icons-actions-2{
     display: inline-block;
 }
@@ -79,14 +93,13 @@ body {
     padding: 0px;
     text-align: right;
     font-size: 16px;
-    color: #ffff;
+    color: rgb(48, 44, 44);
     display: inline-block;
     
 }
 
 .menu a {
-    color: #ffff;
-    text-shadow: 1px 1px #888888;
+    color: rgb(41, 39, 39);
 }
 
 .menu a:hover {
@@ -114,20 +127,18 @@ body {
 .name-category {
     color: #725247;
     text-align: center;
-    padding: 25px;
-    font-size: 30px;
+    padding: 20px;
+    font-size: 25px;
+    text-align: center;
     font-family: Lato, sans-serif;
     margin-top: 60px;
 }
 
 .list {
-    max-width: 1200px;
     margin: auto;
     display: flex;
     margin: auto;
-    width: 100%;
     color: #565656;
-    display:flex;
     justify-content: space-evenly;
     margin-bottom: 50px;
 }
@@ -144,15 +155,12 @@ body {
 }
 
 .item {
-    width: 33.3%;
     box-sizing: border-box;
-    padding: 10px;
+    padding: 5px;
     background-color: #FFFF;
     border: 2px;
     border-radius: 10px;
     border: 1px solid #358E81;
-    width: 33.3%;
-    height: 66%;
     margin: 20px;  
     text-align: center;
 }
@@ -235,20 +243,6 @@ footer {
         display: block;
     }
 
-    .item {
-        width: 50%;
-        box-sizing: border-box;
-        padding: 10px;
-        background-color: #FFFFFF;
-        border: 1px;
-        border-color:linear-gradient(white, white), radial-gradient(circle at top left, #f00,#3020ff);
-        margin: auto;  
-    }
-    
-    
-    .name-product {
-        font-size: 18px;
-    }
 
     .button-comprar {
         font-size: 16px;
@@ -258,6 +252,16 @@ footer {
         outline: none;
     }
 
+
+    .name-category {
+        color: #725247;
+        text-align: center;
+        padding: 20px;
+        font-size: 23px;
+        text-align: center;
+        font-family: Lato, sans-serif;
+        margin-top: 40px;
+    }
     .list {
         max-width: 600px;
         margin: auto;
