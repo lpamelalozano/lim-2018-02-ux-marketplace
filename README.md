@@ -313,7 +313,7 @@ Esperamos que de implementarse el diseño resulte en un aumento de ventas ya que
 
 ## Documentación
 
-[Link a Zeplin](zpl.io/V0q9nA9)
+[Link a Zeplin](https://app.zeplin.io/project/5c66c7f3ad81ec99d90de193)
 
 [Video a Loom explicando el proceso](https://drive.google.com/drive/u/0/folders/18jBqTPQHS00U93g6ga3mRpf7yYRJ41di)
 
