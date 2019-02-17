@@ -1,76 +1,72 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
     integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="style.css">
-
   <title>dulcecreación</title>
 </head>
 
 <body>
-  <header class="header">
+    <header>
+        <a href="index.html"><img src="img/logo.png" class="logo" alt="logo_pokemon_go"></a>
+        <div class="responsive-menu">
+          <img src="img/menu-button.png" alt="" class="menu-open">
+        </div>
+        <div class="navigator-menu">
+          <span class="menu-close">✕</span>
+          <ul class="menu">
+            <li><a href="shop.html">TIENDA</a></li>
+            <li><a href="#">NOSOTROS</a></li>
+            <li><a href="#">CONTACTO</a></li>
+          </ul>
+        </div>
+        <div class="icons-actions-2">
+          <div class="bag">
+            <img src="img/carrito_compras.png" alt="">
+          </div>
+        </div>
+      </header>
 
-    <div class="responsive-menu">
-      <img src="img/menu-button.png" alt="" class="menu-open">
-    </div>
-    <div class="logo">
-      <img class="logoimg" src="img/logo.png" alt="">
-    </div>
 
-
-    <div class="navigator-menu">
-      <span class="menu-close">✕</span>
-      <ul class="menu">
-        <li><a href="shop.html">TIENDA</a></li>
-        <li><a href="#">NOSOTROS</a></li>
-        <li><a href="#">CONTACTO</a></li>
-
-      </ul>
-    </div>
-    <div class="icons-actions-2">
-      <div class="bag">
-        <img src="img/carrito_compras.png" alt="">
-      </div>
-    </div>
-  </header>
-
-  <section class="col-md-12 col-sm-4 col-xs-12">
-
+  <section class="nuestrosp">
     <div class="name-category">
-      <a class="name-category" href="#"> NUESTROS PRODUCTOS</a>
+      <a class="name-category" href="#">NUESTROS PRODUCTOS</a>
     </div>
-
-    <div class="list">
-      <div class="item">
-        <img class="product" src="img/tortatematica.png" alt="">
-        <h3 class="name-product">TORTAS TEMÁTICAS</h3>
+      <div class="col-md-3">
+        <div class="item">
+          <img class="product" src="img/tortatematica.png" alt="">
+            <button class="type-button" type="button">TORTAS TEMÁTICAS</button>
+        </div>
       </div>
-      <div class="item">
-        <img class="product" src="img/cupcakes.png" alt="">
-        <h3 class="name-product">CUPCAKES</h3>
+      <div class="col-md-3">
+        <div class="item">
+          <img class="product" src="img/cupcakes.png" alt="">
+              <button class="type-button" type="button">CUPCAKES</button>
+        </div>
       </div>
-      <div class="item">
-        <img class="product" src="img/buttercream.png" alt="">
-        <h3 class="name-product">TORTAS BUTTERCREAM</h3>
+      <div class="col-md-3">
+        <div class="item">
+          <img class="product" src="img/buttercream.png" alt="">
+              <button class="type-button" type="button">TORTAS BUTTERCREAM</button>
+        </div>
       </div>
-      <div class="item">
-        <img class="product" src="img/nakedcake.png" alt="">
-        <h3 class="name-product">NAKED CAKES</h3>
+      <div class="col-md-3">
+        <div class="item">
+          <img class="product" src="img/nakedcake.png" alt="">
+              <button class="type-button" type="button">NAKED CAKE</button>
+        </div>
       </div>
-    </div>
   </section>
 
-  <div class="recomendacion">
+  <section class="recomendacion col-md-12 col-sm-12 col-xs-12">
     <div class="name-category">
-      <a class="name-category"> LO QUE DICEN DE NOSOTROS</a>
+      <a class="name-category">LO QUE DICEN DE NOSOTROS</a>
     </div>
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
@@ -83,7 +79,6 @@
           <img class="slide-item" src="img/recomendacion.jpg" alt="First slide">
           <h3 class="slide-item">Carla</h3>
           <h4 class="slide-item2">Excelente sabor y la decoración fue tal cual lo esperábamos. Recomiendo al 100%</h4>
-
         </div>
         <div class="carousel-item">
           <img class="slide-item" src="img/recomendacion2.jpg" alt="Second slide">
@@ -108,10 +103,9 @@
         <span class="sr-only">Next</span>
       </a>
     </div>
-  </div>
+  </section>
 
-  <footer>
-
+  <footer class="col-md-12 col-sm-12 col-xs-12">
     <h4 class="footer-text">dulcecreación 2019 All Rights Reserved.</h4>
     <div class="icons-actions-2">
       <div class="icons">
@@ -123,16 +117,13 @@
       <div class="icons">
         <img src="img/icon-gmail.png" alt="">
       </div>
-
     </div>
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
     integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
     crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-    crossorigin="anonymous"></script>
+
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
     integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
     crossorigin="anonymous"></script>
