@@ -3,7 +3,8 @@
 body {
     padding: 0px;
     margin: 0px;
-    font-family: Quicksand;
+    margin-top:80px;
+    font-family:  Lato, sans-serif;
 }
 
 .logo img {
@@ -17,6 +18,7 @@ header {
     padding: 10px;
     left:0 ;
     top:0;
+    margin-bottom: 45px;
     position: fixed;
     z-index: 999;
     background:  rgba(182, 199, 255, 0.911) ;
@@ -39,6 +41,7 @@ header img {
     border-radius: 5px;
     background: #F2E1CD; 
 }
+
 .type-button {
     font-family: 'Lato', sans-serif;
     font-size: 100%;
@@ -52,29 +55,46 @@ header img {
     background: #F2E1CD; 
 }
 
+.indicator {
+    font-family: 'Lato', sans-serif;
+    font-size: 100%;
+    width:30%;
+    color: #252424;
+    margin: 10px 0px 5px;
+    padding: 10px;
+    text-align: center;
+    border:  0.5px solid #E5E6E0;
+    border-radius: 5px;
+    background: #E5E6E0; 
+}
+
 .responsive-menu {
     display: none;
 }
-
 
 .logo {
     float: left;
 }
 
-.slide-item{
-    width: 60px;
-    justify-content: center;
-    margin-left: 48%;
+.slide-item {
+    width: 100px;
+    margin-left: 45%;
     margin-bottom: 2px;
     font-family: Lato, sans-serif;
 }
 
+.slide-name {
+    width:100%; 
+    text-align: center;
+}
+
 .slide-item2 {
     justify-content: center;
-    margin-left: 25%;
-    margin-top: 20px;
+    margin-bottom:50px;
+    text-align: center;
 }
-.icons-actions-2{
+
+.icons-actions-2 {
     display: inline-block;
 }
 
@@ -90,14 +110,16 @@ header img {
 }
 
 .bag {
-    width: 32px;
-    padding: 4px;
+    width: 25px;
+    margin-top: -4px;
+    margin-right: 3px;
     vertical-align: middle;
     display: inline-block;
 }
 
 .bag img {
-    width: 100%;
+    width: 25px;
+    margin-top: 4px;
 }
 
 .icons {
@@ -117,12 +139,12 @@ header img {
 
 .menu {
     margin: 0px;
+    margin-top: 4px;
     padding: 0px;
     text-align: right;
     font-size: 16px;
     color: rgb(48, 44, 44);
     display: inline-block;
-    
 }
 
 .menu a {
@@ -142,6 +164,10 @@ header img {
     display:  inline-block;
     text-decoration: none;
     padding: 5px 20px;
+    margin-top: 4px;
+    font-weight: 00;
+    font-family: Lato, sans-serif;
+    color: rgb(37, 36, 36);
 }
 
 .menu-close {
@@ -151,10 +177,12 @@ header img {
 .hero img {
     width: 100%;
 }
+
 .nuestrosp {
     background-color: #ffffff;
     margin-top:50px;
 }
+
 .name-category {
     color: #725247;
     text-align: center;
@@ -164,7 +192,6 @@ header img {
     font-family: Lato, sans-serif;
     margin-top: 60px;
 }
-
 
 .item {
     padding: 5px;
@@ -176,12 +203,10 @@ header img {
     margin-bottom: 25px;
 }
 
-
 .product {
     width: 100%;
     border-radius: 5px;
 }
-
 
 footer {
     background-color: rgba(182, 199, 255, 0.911);;
@@ -195,12 +220,12 @@ footer {
 .star-rating {
     text-align: center;
 }
+
 .star-rating a {
     display: inline-block;
     font-size: 23px;
     color: #95a5a6; /* gris (normal) */
     text-decoration:none; 
-
 }
 
 .star-rating:hover a {
@@ -208,10 +233,54 @@ footer {
 }
 
 .star-rating:hover a:hover ~ a {
-      color: #95a5a6; /* gris (normal) */
+    color: #95a5a6; /* gris (normal) */
 }
 
- 
+.slide-item {
+    margin-bottom:10px;
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.slide-item2 {
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(img/icon-back.png);
+    padding:15px;
+}
+
+.icon-next {
+    display: inline-block;
+    margin-left: 10px;
+    width: 15px;
+}
+
+.carousel-control-next-icon {
+    background-image: url(img/icon-next.png);
+    padding:15px;
+}
+
+.carousel-indicators li::before {
+    position: absolute;
+    top: -10px;
+    left: 0;
+    display: inline-block;
+    width: 80%;
+    height: 3px;
+    background-color: #CDDCDF;
+    margin-top: 10px;
+    content: "";
+}
+
+h3 {
+    font-family: Lato, sans-serif;
+    font-weight: 500;
+}
+
 .product-price {
     font-family: 'Lato', sans-serif;
     font-size: 14px;
@@ -221,14 +290,47 @@ footer {
     margin-bottom: 6px;
 }  
 
+.type-select {
+    background: #CDDCDF;
+    border-radius: 7px;
+    border-color: #CDDCDF;
+    height: 44px;
+    width: 100%;
+    font-family: Lato, sans-serif;
+    outline-style: none;
+}
+
+h4 {
+    font-family: Lato, sans-serif;
+    font-size: 15px;
+}
+
 @media only screen and (max-width: 414px) { 
+
+    header img {
+        width: 45%;
+        margin-top: 7px;
+    }
+
+    .bag img {
+        width: 25px;
+        margin-top: 10px;
+    }
+
+    .indicator {
+        width:50%;
+    }
+
+    .menu-open {
+        width: 30px;
+    }
     .navigator-menu {
         background-color: #fff;
         box-sizing: border-box;
-        padding: 30px 20px;
         position: fixed;
         width: 65%;
         height: 100%;
+        margin-top: 4px;
         left: -65%;
         top: 0;
         transition: all 0.2s ease-in-out;
@@ -242,23 +344,40 @@ footer {
         color: #565656;
     }   
    
-
     .slide-item {
-        justify-content: center;
-        margin-left: 45%;
+        margin-bottom:10px;
+        font-family: Lato, sans-serif;
+        font-size: 20px;
+        margin-left: 35%;
         text-align: center;
-        margin-top: 20px;
     }
 
-    .slide-item2 {
-        justify-content: center;
-        margin-left: 8%;
+    .slide-name {
+        width:100%; 
         text-align: center;
-        margin-top: 20px;
+        font-size: 20px;
+    }
+    
+    .slide-item2 {
+        font-family: Lato, sans-serif;
+        font-size: 14px;
+        margin-left: 13%;
+        margin-right: 13%;
+        text-align: center;
     }
 
     .navigator-menu.active {
         left: 0;
+    }
+
+    h3 {
+        margin-bottom:20px;
+    }
+
+    .type-select {
+        outline-style: none;
+        margin-bottom: 20px;
+        width:100%;
     }
 
     .menu-close {
@@ -275,10 +394,8 @@ footer {
         color: #333;
     } 
 
-
     .responsive-menu {
         float: left;
-        margin-right: 10px;
         display: inline-block;
     }
 
@@ -288,37 +405,17 @@ footer {
     
     .menu li a {
         display: block;
+        margin-top: 4px;
     }
 
     .name-category {
         color: #725247;
         text-align: center;
         padding: 20px;
-        font-size: 20px;
+        font-size: 18px;
         text-align: center;
         font-family: Lato, sans-serif;
         margin-top: 40px;
-    }
-    .list {
-        max-width: 600px;
-        margin: auto;
-        width: 100%;
-        color: #565656;
-        display:inline;
-        justify-content: space-evenly;
-        margin-bottom: 50px;
-    }
-
-    .white{
-        box-sizing: border-box;
-        padding: 10px;
-        background-color: rgb(255, 255, 255);
-        border: 2px;
-        border-radius: 10px;
-        height: 66%;
-        margin: auto;  
-        margin-top: 10px;
-        text-align: center;
     }
     
 }
